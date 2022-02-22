@@ -8,3 +8,5 @@ def test_factorial2():
 
 def test_factorial3():
     assert type(factorial(3)) == int or float
+
+# comment
